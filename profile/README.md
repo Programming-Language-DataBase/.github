@@ -9,7 +9,7 @@ PLDB is a public domain database containing information about thousands of progr
 ## 🔗 Resources
 
 - [Main Repository](https://github.com/Programming-Language-DataBase/pldb)
-- [Website](https://pldb.io) (if you have one)
+- [Website](http://pldb.info) (if you have one)
 
 ## 👥 Contributing
 
